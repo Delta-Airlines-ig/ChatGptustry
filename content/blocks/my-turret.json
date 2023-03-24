@@ -8,7 +8,6 @@
   "range": 6,
   "rotateSpeed": 20,
   "reloadTime": 40,
-  "shootEffect": "large-explosion",
   "shootSound": "blast",
   "targetAir": true,
   "targetGround": true,
