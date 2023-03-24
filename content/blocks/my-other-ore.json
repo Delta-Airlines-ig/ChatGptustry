@@ -1,5 +1,5 @@
 {
-  "type": "ore",
+  "type": "OreBlock",
   "name": "my-other-ore",
   "localizedName": "My Other Ore",
   "description": "An ore that creates My Other Custom Item when mined.",
