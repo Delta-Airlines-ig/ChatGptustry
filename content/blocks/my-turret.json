@@ -1,5 +1,5 @@
 {
-  "type": "turret",
+  "type": "Turret",
   "name": "my-turret",
   "localizedName": "My Turret",
   "description": "A custom turret that fires custom bullets at enemies.",
