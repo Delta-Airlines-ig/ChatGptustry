@@ -1,0 +1,6 @@
+type:item
+name: My Third Custom Item
+description:Yet another custom item that does something different.
+color:7e4a35
+cost:30
+alwaysUnlocked:true
