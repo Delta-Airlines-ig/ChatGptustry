@@ -20,10 +20,4 @@
   "shootStatus": "none",
   "drawFlame": true,
   "drawSmoke": true,
-  "variants": [
-    {
-      "sprite": "my-turret",
-      "rotate": true
-    }
-  ]
 }
