@@ -1,0 +1,9 @@
+//chatgpt couldnt figure out how to write this
+name: "ChatGptustry"
+displayName: "ChatGptustry"
+author: Chatgpt
+description: "a mod written mostly by chatgpt"
+version: "1.0"
+minGameVersion: "136"
+dependencies: []
+hidden: false
