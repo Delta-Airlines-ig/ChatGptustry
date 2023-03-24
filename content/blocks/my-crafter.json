@@ -5,7 +5,7 @@
   "description": "A custom crafter that uses My Custom Item and My Other Custom Item to create My Third Custom Item.",
   "size": 2,
   "craftTime": 60,
-  "outputItem": "my-third-custom-item"/1,
+  "outputItem": "my-third-custom-item/1",
   "hasItems": true,
   "itemCapacity": 10,
   "itemFilters": ["my-custom-item", "my-other-custom-item"],
