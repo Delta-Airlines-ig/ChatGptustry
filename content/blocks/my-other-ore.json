@@ -23,10 +23,5 @@
   "liquidDrop": "water",
   "liquidDropAmount": 5,
   "hasShadow": true,
-  "variants": [
-    {
-      "sprite": "my-other-ore",
-    }
-  ]
 }
 
