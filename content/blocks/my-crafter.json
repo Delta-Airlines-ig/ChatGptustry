@@ -17,4 +17,7 @@ consumes: {
   }
 }
 category: crafting
+requirements: [
+
+]
 outputItem: my-third-custom-item/1
