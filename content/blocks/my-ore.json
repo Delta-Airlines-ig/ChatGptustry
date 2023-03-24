@@ -1,0 +1,32 @@
+{
+  "type": "ore",
+  "name": "my-ore",
+  "localizedName": "My Ore",
+  "description": "An ore that creates My Custom Item when mined.",
+  "hardness": 3,
+  "resistance": 4,
+  "minPick": "diamond",
+  "mineTier": 3,
+  "itemDrop": "my-custom-item",
+  "itemDropChance": 0.5,
+  "emitLight": false,
+  "emitFlammability": true,
+  "flammableMultiplier": 0.5,
+  "explosiveness": 0.5,
+  "oreDefault": true,
+  "oreThreshold": 1,
+  "oreScale": 0.02,
+  "oreSize": 3,
+  "oreLevel": 2,
+  "result": "my-custom-item",
+  "resultCount": 1,
+  "liquidDrop": "water",
+  "liquidDropAmount": 5,
+  "hasShadow": true,
+  "variants": [
+    {
+      "sprite": "my-ore",
+      "rotate": false
+    }
+  ]
+}
