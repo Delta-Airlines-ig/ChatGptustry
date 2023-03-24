@@ -1,25 +1,20 @@
-{
-  "type": "GenericCrafter",
-  "name": "my-crafter",
-  "localizedName": "My Crafter",
-  "description": "A custom crafter that uses My Custom Item and My Other Custom Item to create My Third Custom Item.",
-  "size": 2,
-  "craftTime": 60,
-  "outputItem": "my-third-custom-item",
-  "hasItems": true,
-  "itemCapacity": 10,
-  "itemFilters": ["my-custom-item", "my-other-custom-item"],
-  "consumes": [
-    {
-      "item": "my-custom-item",
-      "amount": 1
-    },
-    {
-      "item": "my-other-custom-item",
-      "amount": 1
-    }
-  ],
-  "drawer": {
-    // drawer code here
+//chatgpt also couldnt easily figure this out so i rewrote it myself
+type: genericCrafter
+name: my-crafter
+description:A custom crafter that uses My Custom Item and My Other Custom Item to create My Third Custom Item.
+craftTime: 60
+size: 2
+hasPower: false
+hasItems:true
+hasLiquids: false
+itemCapacity:10
+consumes: {
+  items: {
+    items: [
+      my-custom-item/1
+	  my-other-custom-item/1
+    ]
   }
 }
+category: crafting
+outputItem: my-third-custom-item/1
