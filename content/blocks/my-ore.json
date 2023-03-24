@@ -26,7 +26,6 @@
   "variants": [
     {
       "sprite": "my-ore",
-      "rotate": false
     }
   ]
 }
