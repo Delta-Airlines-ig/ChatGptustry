@@ -1,0 +1,30 @@
+{
+  "type": "turret",
+  "name": "my-turret",
+  "localizedName": "My Turret",
+  "description": "A custom turret that fires custom bullets at enemies.",
+  "health": 1000,
+  "size": 3,
+  "range": 6,
+  "rotateSpeed": 20,
+  "reloadTime": 40,
+  "shootEffect": "large-explosion",
+  "shootSound": "blast",
+  "targetAir": true,
+  "targetGround": true,
+  "shootCone": 5,
+  "ammo": "my-custom-item",
+  "ammoPerShot": 1,
+  "shootLength": 5,
+  "inaccuracy": 5,
+  "shootShake": 0.5,
+  "shootStatus": "none",
+  "drawFlame": true,
+  "drawSmoke": true,
+  "variants": [
+    {
+      "sprite": "my-turret",
+      "rotate": true
+    }
+  ]
+}
