@@ -1,5 +1,5 @@
 {
-  "type": "crafter",
+  "type": "GenericCrafter",
   "name": "my-crafter",
   "localizedName": "My Crafter",
   "description": "A custom crafter that uses My Custom Item and My Other Custom Item to create My Third Custom Item.",
