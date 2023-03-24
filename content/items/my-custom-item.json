@@ -1,0 +1,6 @@
+type:item
+name: My custom item
+description:A custom item that does something cool.
+color:ec7c3f
+cost:10
+alwaysUnlocked:true
